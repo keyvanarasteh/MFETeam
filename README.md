@@ -7,4 +7,4 @@ Melih Doğan X 211216042
 Supervisor: https://github.com/keyvanarasteh
  
 
-# Screenshotss
+# Screenshots
