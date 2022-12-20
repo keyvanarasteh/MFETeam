@@ -1,9 +1,10 @@
-# MFETeam
+# MFE Team
+Developers:
+Eren Özdemir X 211216006
+Furkan Eroğlu X 211216059
+Melih Doğan X 211216042
 
-Developer Team
+Supervisor: https://github.com/keyvanarasteh
+ 
 
-Furkan Emir Eroğlu     211216059
-
-Eren Özdemir           211216006
-
-Melih Doğan             211216042
+# Screenshots
