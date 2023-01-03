@@ -8,6 +8,7 @@ Supervisor: https://github.com/keyvanarasteh
  
 
 # Screenshots
-![1](https://user-images.githubusercontent.com/69398166/208773964-007dca4e-69b4-4569-9d8b-6ff002f7f661.PNG)
-![2](https://user-images.githubusercontent.com/69398166/208773972-9289eb42-d5ac-457f-8c6b-1b0a94a30770.png)
-![3](https://user-images.githubusercontent.com/69398166/208773977-207b8779-6fa8-475f-8a8f-c83cbc73573f.PNG)
+![Mobil](https://user-images.githubusercontent.com/69398166/210344726-825ac5eb-4474-4c26-875e-b5da2b6a35cf.PNG)
+![Tablet](https://user-images.githubusercontent.com/69398166/210344734-eaa5da72-cafb-44cb-a446-d72c0aa73995.PNG)
+![Desktop](https://user-images.githubusercontent.com/69398166/210344740-5cf07a6c-ba3e-43e0-a6f1-986c9566e565.PNG)
+![Large](https://user-images.githubusercontent.com/69398166/210344753-851fb685-b1f7-45db-aa69-604c61cd78a8.PNG)
