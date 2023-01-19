@@ -9,4 +9,4 @@ Supervisor: https://github.com/keyvanarasteh
 
 # Screenshots
 
-<img width="331" alt="Ekran görüntüsü_20230119_195101" src="https://user-images.githubusercontent.com/97700804/213570058-6dbb1817-df15-48aa-9784-0eefacd156cc.png">
+<img width="960" alt="Ekran görüntüsü_20230119_195033" src="https://user-images.githubusercontent.com/97700804/213570228-dadc5b45-aa04-463e-9581-7871b39b58c3.png">
